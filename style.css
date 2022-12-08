@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+}
+.header{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+}
+
+.footerlinks{
+  background: black;
+
+}
+
+.pricing-detail{
+  font-family: "Lucida Console", Monaco, monospace;
+font-size: 22px;
+letter-spacing: 3.4px;
+word-spacing: -3px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+.pricing-title{
+  font-size: 25px;
+}
+
+.content{
+  font-family: "Lucida Console", Monaco, monospace;
+font-size: 22px;
+letter-spacing: 3.4px;
+word-spacing: -3px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
